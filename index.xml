@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Ruixiang Cui</title>
+    <title>Ruixiang Cui</title>
     <link>https://ruixiangcui.github.io/</link>
-    <description>Recent content in About on Ruixiang Cui</description>
+    <description>Recent content on Ruixiang Cui</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://ruixiangcui.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
@@ -12,7 +12,9 @@
       
       <guid>https://ruixiangcui.github.io/contact/</guid>
       <description>E-mail: rc@di.ku.dk
-Twitter</description>
+Twitter: @ruixiangcui
+GitHub
+Linkedin</description>
     </item>
     
     <item>
